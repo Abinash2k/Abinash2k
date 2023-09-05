@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abinash Mukherjee 
 - 👀 I’m interested in Football
-- 🌱 I’m currently learning Python, Pandas, Investments print('list still updating')
+- 🌱 I’m currently learning Python, Pandas, Investments, print('list still updating')
 - 📫 How to reach me please follow links
 
 <!---
